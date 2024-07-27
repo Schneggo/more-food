@@ -1,5 +1,5 @@
 # More Food
-More-food is a mod for minecraft 1.21 Fabric
+More-food is a Fabric-mod for minecraft 1.21 
 It's also my project for learning to program minecraftmods.
 
 ## Items
